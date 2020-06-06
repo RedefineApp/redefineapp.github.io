@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to RedefineApp!"
+title:  "Welcome to RedefineApp"
 date:   2020-06-06 01:09:59 +0800
 categories: 
 ---

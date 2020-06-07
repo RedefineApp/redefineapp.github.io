@@ -16,7 +16,7 @@
 title: RedefineApp
 email: info@redefine.app
 description: >- # this means to ignore newlines until "baseurl:"
-  We redefine software.
+  We redefine apps.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.redefine.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RedefineApp

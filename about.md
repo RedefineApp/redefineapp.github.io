@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-We redefine software.
+We redefine apps.
